@@ -1,0 +1,193 @@
+Slides
+
+INTRO (#511a7a)
+ - Title/info slide
+ - What is this talk about?
+ - Who is the target audience? / Any prerequisites?
+
+ABOUT US (#7a1a51)
+ - Who/why change careers? Why software?
+ - So, who works in software? (You may not be as alone as you feel - SO report)
+ - Who are we? / What did you do before? How did you get here? Who goes into software as a second career (less stats on this, I think)
+ - Which fields have smaller learning curves? What fields have better job prospects? Which pay better?
+ - What kind of learning do these fields require?
+ - If you’re not one of these people, how can you be a great ally? Lend your knowledge / Reinforce confidence
+ - Making decisions - What do you want? What do you need? What are you willing to do?
+
+CHALLENGES (#1a6c7a)
+ - Finding resources / Where to get help?
+ - Education - What kind? When? How long?
+ - Catching up - building foundations quickly
+ - -isms - These can be intense in the software field, and when compunded, can pose a big, ongoing barrier.
+ - Marketing your new (and old) skills (How to narrow it down when you have so many other skills? Who is your audience?)
+ - Cultural - you may not have the foundational experiences. Taught to be consumers rather than producers.
+ - On time and on budget - you may be willing to take a pay cut, but you may will take longer.
+ - Personal - how to up your confidence?
+
+
+ADVANTAGES: What advantages do we have? (#1a7a35)
+ - You have been good at other things; you can get good at this too.
+ - Being multi-skilled shows in your work (ex: If you worked as an administrator, following process will get appreciation)
+ - What are your backgrounds? How can we spin those into positives? (Art - great frontend? Quant - Great logic?)
+ - Having a background in anything can help. Having a degree in anything is a positive in the job search.
+ - Opportunity to plan ahead (https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+ - Older, wiser, more realistic
+ - Learning a new trade means you can learn the newest tools
+ - Embarking on a second career is tough. You've been toughened up. :)
+ 
+
+RESOURCES: What resources are available? (#752311)
+ - Fields/subfields in software
+ - Paths into software (self-taught, academia, bootcamps) Second Career scholarships in Canada
+ - Making money (freelance, software company job, embedded job)
+ - How to set yourself up as a freelancer when you are still learning?
+ - -- Bootcamp (Job assistance programs / Job prep help is good - mock interviews, soft skills prep / Better for full time job search, not freelance)
+ - Community colleges (Can take individual courses / certificates available / Algonquin college has one I know of)
+ - -- Self-taught - Paid (Lynda, Team Treehouse, Code School, Ladies Learning Code), Free (Coursera, Free Code Camp, Girl Develop It, Codecademy)
+ - Keep tabs on what kind of jobs are available (here are a few).
+
+
+
+
+---
+
+Life 2.0: Software as a Second Career
+ 
+In this discussion-style session, we will explore the challenges, resources, and advantages/disadvantages to taking up software as a second career.
+ 
+Have you gone into software as a second career? Are you thinking about it? Do you want to support a friend, an employee, or a colleague? If yes, then this session is for you. After this session you will have a better understanding of others’ experiences, as well as a better idea of how to support yourself and others in the quest.
+ 
+We will ask three main questions:
+What challenges will we face?
+What advantages do we have?
+What resources are available?
+ 
+This session will be appropriate for those at any technical or business level. We won’t do any coding, though we will discuss different technologies in a general sense. Instead we will share our past experiences (good and bad), discuss possible challenges we may face, highlight the advantages we may have, and arm ourselves with resources to get to work (and enjoy it!).
+ 
+ 
+
+ 
+---
+POSSIBLE TOPICS (NOT PART OF SESSION PROPOSAL)
+ 
+What challenges will we face?
+What advantages do we have?
+What resources are available?
+ 
+Bootcamp?
+x How to set yourself up as a freelancer when you are still learning
+x What area of software is best for second career ppl?
+x What extra education must one get? 
+x How did you get here?
+x What did you do before?
+x Challenges
+x “-isms”: Agism, sexism, racism - they all exist, can be exacerbated in software, and can be more intense when they’re compounded
+Resources
+x If you’re not one of these people, how can you be a great ally?
+x Allies can be other SSC (software as a second career) people, they can be colleagues, they can be bosses, they can be friends, mentors, and/or teachers. They could be a combo of any or all of these!
+x Lend your knowledge
+x Reinforce confidence
+x Advantages (and there are some)
+ 
+ 
+ 
+Challenges
+x Where to go to get help
+x How to brand yourself so that you cater to your audience
+x How to narrow it down when you have so many other skills
+Advantages
+x Art background is great for frontend
+x Having a background in anything helps - one actuarial person picked up on the logic of JS easily
+x Already having a degree, even if unrelated, helps get jobs
+x Multi-skilled, it shows in your work
+x You have been good at other things; you can get good at this too.
+Resources:
+x Educational
+x Bootcamp
+x Do as much prep as you can
+x Job assistance programs
+x Job prep help is good - mock interviews, soft skills prep
+x Better for full time job search, not freelance
+x Comm Coll
+x Online free courses (Coursera, Free Code Camp, Team Treehouse, Code School, Girl Develop It, family support, Data Camp, CodeSchool, CodeCademy)
+ 
+Professional development
+Become a freelancer?
+If your goal is to get a full-time job, then finding resources for interviews is important, as is finding out what life is like on the job.
+One Quora thread I read had an interesting take on the question “Where do old programmers go?”. This respondent said that they just work for smaller companies, or start their own.
+x Personal - how to up your confidence?
+Go to Meetups - there will probably be people more AND less experienced than you are. It helps to gain knowledge, but it also helps to give knowledge.
+Take notes - keywords! - and look stuff up later. In the moment, just get into it.
+ 
+ 
+The awesome feeling of finally getting something obscure
+Discouraged originally because of job environment, bad lifestyle, so took a long time to into it.
+Like a puzzle trying to figure out what’s going on - can build things with a keyboard rather than tools, good for introvert
+Art to websites building to programing the websites
+Education teaches you how to teach, then once you learn the content you can relay it.
+Sometimes you’re forced away from your original profession, like teaching
+ 
+NOTES:
+Define software development, computer programming, coding, and web development
+x Ask yourself why you are doing this. What do you want? Remote? Flexible location/hours?
+x Figure out how to communicate your hard AND your soft skills.
+x What are you willing to do? If you have experience managing people then you could get (or be pushed) into project management-style positions, or just find yourself taking on a lot of these activities. But is this what you want? If not, make that clear!
+x Find out what jobs are available (here are a few).
+You have to (SHOULD) love your job. If you’ve ever worked a crap job you know you COULD probably do this without loving it or even liking it. But software is a very big field - there are plenty of directions you can go to eat and love your daily work, too. So when you meet people, ask them what their specific title is, and a little bit about what they do on a daily basis. Keep a running list of “Jobs I could love” and “Jobs I definitely don’t want.”
+Challenge - having to keep skills up to date (this is not just a second career thing)
+x Advantage - you’re learning the newest things
+x Advantage - you may know how to balance the ongoing learning because you JUST did that in order to learn a second career!
+x Advantage - you were determined enough to power through the learning process, so you may be determined enough to power through the discrimination you’re more likely to face.
+Your choice of programming language(s) should probably be decided based on what kind of employment you want. These lifestyle choices are important.
+x Advantage - you have the time and hindsight to look at possible employment options before jumping to training.
+Look at the Software Development Worlds in Software by Rob, or Joel on Software.
+x Find lots of people - find people who are your experience level, and find people who are more experienced than you. Finally, don’t hesitate to find people who need YOUR help or expertise. You can learn a lot by teaching.
+x What do you want? What are you willing to accept?
+Is time of the essence? This is a trade-offs question.
+Project or side projects can help you to expand into / claim experience with more technologies.
+Self-taught people are often with the ones with the tenacity to stay.
+x Don’t idealize working for a big company.
+Software as a first career (ie, academically trained people) often can get into the “golden handcuffs” positions, and stay there.
+Something about it needs to inspire passion. 
+x Learning =/= learning. Learning = Onboarding
+x Bill by the hour - don’t do contract work!
+x Challenge - I doubt that the average salary hype applies to someone who is self-taught and/or changing careers.
+x Join hackathons, kaggle groups, or...Drupal sprints!
+x Have an accurate resume available, just in case.
+x Create, practice, and maintain your personal elevator speech (2min sales pitch) current. You never know when you’ll need it!
+Cast a wide net
+x Plan your job search ahead of time; read post-mortems from other job searches (https://techbeacon.com/what-you-can-learn-6-software-engineer-job-hunt-postmortems)
+If you are part of a minority group, conduct additional research into the challenges of entering the field. Not only can you find helpful advice (https://techbeacon.com/women-software-development-8-success-stories-5-tips-advancement), but you may find supportive communities which can serve as a resource.
+x Get comfortable with being your unique self! In entering this field, you will probably be in the minority. People may act/think differently because of it. So be who you want.
+x Note: I see a lot of people saying to answer StackExchange questions and put that on your resume. If you are that far along (or just don’t mind getting downvoted a lot), go for it. Otherwise, you might spend more time cultivating relationships with individual people or small groups online.
+x Recruiters? What do you all think?
+Do investigate second career scholarships to colleges in Canada.
+Know anyone in technology? Ask them questions: “How they got started, what they like or dislike  about their job roles, and if they have any tips for someone just starting out.”(F. Rivera)
+What does a freelancer do? In non-technical terms, “You are in the business of understanding other businesses.” - Faisal Hourani, via Quora (https://www.quora.com/What-advice-would-you-give-someone-trying-to-become-a-freelance-web-developer)
+ 
+ 
+Other sources I referenced that you might want to read:
+https://skillcrush.com/2015/04/09/land-junior-web-developer-job/
+http://www.informit.com/articles/article.aspx?p=2142706
+ 
+http://www.softwarebyrob.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf
+ 
+https://www.zaizi.com/blog/women-technology
+ 
+https://www.webcodegeeks.com/wp-content/uploads/2016/05/How-to-become-a-Web-Developer.pdf
+ 
+https://targetjobs.co.uk/career-sectors/it-and-technology/advice/286189-ten-typical-jobs-graduates-can-do-in-it
+
+https://docs.google.com/spreadsheets/d/1wJ5eaF4yotZQdMI-KPUteNMC57e9Qm7s7ErG562uaQE/edit?usp=sharing
+
+https://www.quora.com/What-advice-would-you-give-someone-trying-to-become-a-freelance-web-developer
+
+http://www.skorks.com/2010/03/the-difference-between-a-developer-a-programmer-and-a-computer-scientist/
+
+http://www.techrepublic.com/article/the-state-of-women-in-technology-15-data-points-you-should-know/
+
+https://www.zaizi.com/blog/women-technology
+
+https://insights.stackoverflow.com/trends?tags=r%2Cstatistics
+
+https://techbeacon.com/what-you-can-learn-6-software-engineer-job-hunt-postmortems

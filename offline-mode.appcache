@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# v3
+
+# assets
+CACHE:
+index.html
+css/reveal.css
+lib/js/head.min.js
+css/theme/black.css
+js/reveal.js
+lib/css/zenburn.css
+lib/font/source-sans-pro/source-sans-pro.css
+css/print/paper.css
+plugin/markdown/marked.js
+plugin/markdown/markdown.js
+lib/font/source-sans-pro/source-sans-pro-italic.woff
+lib/font/source-sans-pro/source-sans-pro-regular.woff
+README.md
+images/appcache.png
+plugin/notes/notes.js
+plugin/highlight/highlight.js
+lib/font/source-sans-pro/source-sans-pro-semibold.woff
+
+NETWORK:
+*
+
+FALLBACK:
